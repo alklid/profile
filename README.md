@@ -1,7 +1,7 @@
 # profile
 ### personal
 * name : Changha Choi (최창하)
-* age : 39 (male)
+* age : 40 (male)
 ### company
 * [Fasoo](https://www.fasoo.com)
   * 2006 ~ current
