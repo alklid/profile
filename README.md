@@ -4,10 +4,13 @@
 * age : 43 (male)
 ### company
 * [Fasoo](https://www.fasoo.com)
-  * 2006 ~ current
-    * 2007 ~ 2008 : Technical Support
+  * 2006 ~ 2018
+    * 2007 ~ 2008 : technical support
     * 2009 ~ 2011 : engineer
-    * 2012 ~ current : developer
+    * 2012 ~ 2018 : programmer
+* [Medit](https://www.medit.com)
+  * 2018 ~ current
+    * 2018 ~ current : programmer
 ### university
 * [Myoung-ji](https://www.mju.ac.kr)
 * bachelor's degree
