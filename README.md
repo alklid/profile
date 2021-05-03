@@ -18,15 +18,16 @@
   * Fasoo
     * FasooBlock
       * https://www.fasooblock.com
+      * https://app.swaggerhub.com/apis/FasooBlock/FasooBlock_API/1.0-oas3
     * Analytic De-identification
-      * https://www.fasoo.com/analyticdid
+      * https://en.fasoo.com/products/analyticdid/
       * https://youtu.be/3UCgCwr8rWw
     * EPUB Secure Service
       * http://epubss.fasoo.com
-      * https://goo.gl/Adi8Fa
   * Medit
     * Medit Link
       * https://www.meditlink.com
+      * https://stage-openapi-developers.meditlink.com/doc/api
       * https://youtu.be/8h6kAwpcyTU
       * https://youtu.be/umqsEjgNnX4
       * https://youtu.be/nQtXpSkOHuU
